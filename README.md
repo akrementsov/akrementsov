@@ -7,7 +7,7 @@ I am **Andrey Krementsov**, 32 y.o. Currently learning iOS development and **loo
 - SwiftUI + Combine (recently finished **a big studying project**)
 - OOP / POP / DRY / KISS / SOLID
 - MVC / MVVM / MVP
-- GCD, Operation
+- GCD / Operation
 - Storyborads / .xib / SnapKit / UI in code
 - CoreData / FileManager / User Defaults / Realm / Keychain
 - CocoaPods / SPM
