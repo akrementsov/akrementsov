@@ -1,7 +1,7 @@
 ## Hello :v:
 I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development for a year and now **looking for an open source project** to work in. A few months ago I switched from UIKit to SwiftUI. In addition, I am preparing for the IELTS exam. My target is a 7.0 - 7.5 score.
 
-## iOS skills
+## iOS development skills
 - Swift
 - UIKit (have some **pet projects**)
 - SwiftUI + Combine (recently finished **a big studying project**)
