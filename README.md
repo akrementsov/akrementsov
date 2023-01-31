@@ -5,7 +5,7 @@ I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development for a y
 - Swift
 - UIKit (have some **pet projects**)
 - SwiftUI + Combine (recently finished **a big studying project**)
-- OOP / POP / DRY / KISS / SOLID
+- OOP / POP / DRY / KISS / SOLID / YAGNI
 - MVC / MVVM / MVP
 - GCD / Operation
 - Storyborads / .xib / SnapKit / UI in code
