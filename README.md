@@ -4,7 +4,7 @@ I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development with fo
 ## iOS development skills
 - Swift
 - UIKit (have some **pet projects**)
-- SwiftUI + Combine (recently finished **a big studying project**)
+- SwiftUI + Combine (recently finished **a studying project**)
 - OOP / POP / DRY / KISS / SOLID / YAGNI
 - MVC / MVVM / MVP
 - GCD / Operation
