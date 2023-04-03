@@ -1,5 +1,5 @@
 ## Hello
-I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development with focus on UIKit for a year. Since the beginning of March 2023 I have been an intern at [Koshelek app](https://koshelek.app). In addition, I am preparing for the IELTS exam. My target is a 7.0 - 7.5 score.
+I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development with focus on UIKit for a year. Since the beginning of March 2023 I work at [Koshelek app](https://koshelek.app). In addition, I am preparing for the IELTS exam. My target is a 7.0 - 7.5 score.
 
 ## iOS development skills
 - Swift
