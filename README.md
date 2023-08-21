@@ -29,9 +29,9 @@ I am **Andrey Krementsov**, 32 y.o. I have been learning iOS development with fo
 
 ## Some facts about me
 - Have a degree in **Nanotechnology**
-- **Created real time interactive multimedia content** via TouchDesignar and VVVV
+- **Used to creat real time interactive multimedia content** via TouchDesignar and VVVV
 - Worked in many different countries as a **camera**
-- Have a strong background as a **producer** in the video industry. My passion was advertising and music videos
+- Have a strong background as a **producer** in the video industry. My passion was commercials and music videos
 
 ## Contacts
 - GitHub - [@akrementsov](https://github.com/akrementsov)
