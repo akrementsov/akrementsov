@@ -1,5 +1,5 @@
 ## Hello
-I have been learning iOS development with focus on UIKit. Since the beginning of March 2023 I've worked at [Koshelek app](https://koshelek.app). In addition, I am preparing for the IELTS exam. My target is a 7.0 - 7.5 score.
+I have been learning iOS development with focus on UIKit. Since the beginning of March 2023 I've worked at [Koshelek app](https://koshelek.app).
 
 ## iOS development skills
 - Swift
