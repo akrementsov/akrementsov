@@ -1,5 +1,5 @@
 ## Hello
-I have been learning iOS development with focus on UIKit. Since the beginning of March 2023 I've worked at [Koshelek app](https://koshelek.app).
+I m an iOS developmer with focus on UIKit and strong knowledge in SwiftUI. Since the beginning of March 2023 I've worked at [Koshelek app](https://koshelek.app).
 
 ## iOS development skills
 - Swift
