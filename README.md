@@ -4,7 +4,7 @@ I m an iOS developmer with focus on UIKit and strong knowledge in SwiftUI. Since
 ## iOS development skills
 - Swift
 - UIKit (have some **pet projects**)
-- SwiftUI + Combine (recently finished **a studying project**)
+- SwiftUI + Combine
 - OOP / POP / DRY / KISS / SOLID / YAGNI
 - MVC / MVVM / MVP
 - GCD / Operation
