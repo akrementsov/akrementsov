@@ -20,13 +20,6 @@ I m an iOS developmer with focus on UIKit and strong knowledge in SwiftUI. Since
 - Jira / Trello / Miro
 - Figma / Photoshop / Illustrator
 
-## Courses / Books
-- [Harvard CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-- [Stanford CS193p: Developing Applications for iOS using SwiftUI](https://cs193p.sites.stanford.edu)
-- [Dr. Angela Yu: iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-- [Yandex: Mobile development school, iOS](https://www.youtube.com/watch?v=PwzFGKc2KPE&list=PLQC2_0cDcSKBUXhSGqAbVAp3SFBKPnpFI)
-- [Yandex: Algorithm training 1.0 and 2.0](https://yandex.ru/yaintern/algorithm-training_1)
-
 ## Some facts about me
 - Have a degree in **Nanotechnology**
 - **Used to creat real time interactive multimedia content** via TouchDesignar and VVVV
