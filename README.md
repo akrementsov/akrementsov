@@ -4,7 +4,7 @@ iOS engineer with 5+ years in production apps: Aviasales, T-Bank, Koshelek. Prod
 
 I work across the whole iOS stack: SwiftUI and UIKit, TCA and MVVM+C, Swift Concurrency, legacy Objective-C. I've led big migrations (UIKit to SwiftUI, auth to refresh tokens), shipped features end to end, integrated payments and raised app stability. At Aviasales I also built the AI development setup the iOS team uses every day.
 
-📍 Spain (EU) · English B2 · open to remote contract / B2B
+📍 Spain (EU) · English B2
 
 #### Experience
 
