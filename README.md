@@ -19,13 +19,14 @@ I work across the whole iOS stack: SwiftUI and UIKit, TCA and MVVM+C, Swift Conc
 - Integrated a payment system, which opened a new business line for the company.
 - Built a communications section: average time in app grew 3×.
 - Rewrote the home screen in SwiftUI: new features ship 2× faster.
-- Raised crash-free to 98.87% with Crashlytics / Sentry monitoring and stability fixes.
+- Raised crash-free from 98.87% to 99.94% with Crashlytics / Sentry monitoring and stability fixes.
 
 **T-Bank** · mobile bank · 2022 – 2023
 - Rewrote the input-forms library: −25% development time, +15% completed forms.
 
 **Easy Communication Agency** · 2021 – 2022
-- Built a QR-code scanner app for exhibition check-in.
+- Reworked an interactive-presentation app: freezes and crashes down 90%.
+- Reworked an exhibition virtual guide: a modular approach cut bug-fix time by 30%.
 
 #### Projects here
 
