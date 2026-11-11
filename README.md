@@ -4,14 +4,14 @@ Senior iOS engineer with 5+ years in production apps: Aviasales, T-Bank, Koshele
 
 I work across the whole iOS stack: SwiftUI and UIKit, TCA and MVVM+C, Swift Concurrency, legacy Objective-C. I've led big migrations (UIKit to SwiftUI, auth to refresh tokens), shipped features end to end, integrated payments and raised app stability. At Aviasales I also built the AI development harness the iOS team uses every day.
 
-📍 Spain (EU) · English B2 · open to remote contract / B2B
+📍 Spain (EU) · English B2 · open to full-time remote roles
 
 #### Experience
 
 **Aviasales** · flights & travel metasearch · 2025 – now
 - Built an AI development harness on Claude Code and Codex: models from different providers research, plan, review and test in parallel. Team velocity nearly doubled (story points ×2); used by a 32-person iOS team.
 - Built a flight-history feature end to end: TCA + SwiftUI, interactive Mapbox globe, CSV import from Flighty and Skyscanner, VoiceOver, Snowplow analytics.
-- Built an interactive 3D feature: Metal with custom shaders (glass refraction, liquid physics, 60 fps on older iPhones), device-to-device interaction via CoreMotion + BLE, haptics.
+- Built an interactive 3D feature on Metal: renderer, shaders, animations, gestures, device-to-device sync; 60 fps on older iPhones.
 - Moved app-wide auth from a long-lived token to access + refresh tokens with no logged-out users. Touched Objective-C, WebView, REST, WebSocket (Centrifugo) and GraphQL.
 - Rewrote 37 UIKit feature modules in SwiftUI + TCA.
 
